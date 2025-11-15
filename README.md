@@ -7,6 +7,7 @@ A comprehensive guide to getting started with Docker Multimodal AI models using 
 - **[Quick Start](QUICKSTART.md)** - Get up and running in 5 minutes
 - **[Architecture Guide](ARCHITECTURE.md)** - Understand how it works
 - **[Examples](examples/)** - Practical code examples
+- **[FAQ](FAQ.md)** - Frequently asked questions
 - **[Contributing](CONTRIBUTING.md)** - Help improve this resource
 
 ## Table of Contents
