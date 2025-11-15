@@ -10,6 +10,24 @@ A comprehensive guide to getting started with Docker Multimodal AI models using 
 - **[FAQ](FAQ.md)** - Frequently asked questions
 - **[Contributing](CONTRIBUTING.md)** - Help improve this resource
 
+## 🚀 Development Environment
+
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/Aymalla/learn-docker-multimodal)
+
+This repository includes a pre-configured development container with all required tools:
+- Python 3.12 with `openai` package
+- Node.js LTS with `openai` package
+- Docker-in-Docker support
+- VS Code extensions for Python, JavaScript, and Docker
+
+**Getting Started:**
+1. Install [VS Code](https://code.visualstudio.com/) and the [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+2. Open this repository in VS Code
+3. Click "Reopen in Container" when prompted
+4. All dependencies will be installed automatically
+
+See [.devcontainer/README.md](.devcontainer/README.md) for more details.
+
 ## Table of Contents
 
 - [What is Docker Multimodal?](#what-is-docker-multimodal)
