@@ -1,0 +1,21 @@
+{
+  "name": "docker-multimodal-examples",
+  "version": "1.0.0",
+  "description": "Examples for using Docker Model Runner with multimodal AI",
+  "type": "module",
+  "scripts": {
+    "analyze": "node simple_image_analysis.js"
+  },
+  "keywords": [
+    "docker",
+    "multimodal",
+    "ai",
+    "machine-learning",
+    "image-analysis"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
