@@ -2,6 +2,29 @@
 
 A comprehensive guide to getting started with Docker Multimodal AI models using Docker Model Runner.
 
+## 📚 Documentation
+
+- **[Quick Start](QUICKSTART.md)** - Get up and running in 5 minutes
+- **[Architecture Guide](ARCHITECTURE.md)** - Understand how it works
+- **[Examples](examples/)** - Practical code examples
+- **[Contributing](CONTRIBUTING.md)** - Help improve this resource
+
+## Table of Contents
+
+- [What is Docker Multimodal?](#what-is-docker-multimodal)
+- [Why Use Docker for Multimodal AI?](#why-use-docker-for-multimodal-ai)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Getting Started](#getting-started)
+- [Basic Usage Examples](#basic-usage-examples)
+- [Using the API](#using-the-api)
+- [Advanced Usage](#advanced-usage)
+- [How Multimodal Models Work](#how-multimodal-models-work)
+- [Common Use Cases](#common-use-cases)
+- [Best Practices](#best-practices)
+- [Troubleshooting](#troubleshooting)
+- [Additional Resources](#additional-resources)
+
 ## What is Docker Multimodal?
 
 Docker Multimodal refers to running multimodal AI models locally using **Docker Model Runner** - a tool integrated with Docker Desktop. Multimodal AI models can process and understand multiple types of data inputs:
